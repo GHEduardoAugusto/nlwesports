@@ -2,6 +2,8 @@
 
 NLW Esports Rocketseat com adicionais mobx, axios e styled-components
 
+![Uploading mobile.gif…]()
+
 ## 🚀 Executando o server
 
 Utilize o **yarn** ou o **npm install** para instalar as dependências do projeto.
