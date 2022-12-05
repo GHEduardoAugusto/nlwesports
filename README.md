@@ -25,10 +25,6 @@ Em seguida, inicie o projeto:
 ```cl
 yarn ios ou yarn android
 
-```
-
-ou
-
 ```cl
 expo start
 
