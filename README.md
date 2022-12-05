@@ -2,7 +2,11 @@
 
 NLW Esports Rocketseat com adicionais mobx, axios e styled-components
 
-![Uploading mobile.gif…]()
+Mobile:
+![Alt Text]([https://s4.gifyu.com/images/mobileb2e0768437654c65.gif])
+
+Web:
+![Alt Text]([https://s4.gifyu.com/images/webf7e65e917261b1bd.gif])
 
 ## 🚀 Executando o server
 
